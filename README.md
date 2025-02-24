@@ -28,9 +28,14 @@ The following **additional** features are implemented:
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
 
-<a href="https://www.loom.com/share/6abf59c311b3433287a5c0f364da5d64">
-    <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6abf59c311b3433287a5c0f364da5d64-79c79f5b31abf08a-full-play.gif">
-</a>
+<div>
+    <a href="https://www.loom.com/share/6abf59c311b3433287a5c0f364da5d64">
+      <p>ios101-project1 - Watch Video</p>
+    </a>
+    <a href="https://www.loom.com/share/6abf59c311b3433287a5c0f364da5d64">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/6abf59c311b3433287a5c0f364da5d64-79c79f5b31abf08a-full-play.gif">
+    </a>
+</div>
 
 
 
